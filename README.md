@@ -5,8 +5,8 @@
 ### Web Developer
 
 - 🔭 I’m learning new things everyday and I love it 💖
-- 📰 My favourite blogs dev.to, daily.dev, Medium
-- 💻 Currently learning MERN stack 🚀
+- 📰 My favourite blogs dev.to, daily.dev, Medium, twitter feed
+- 💻 On my way in the roadmap to learn MERN stack 🚀
 
 ### Contact me through
 
