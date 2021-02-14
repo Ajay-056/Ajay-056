@@ -39,6 +39,7 @@
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
 <br />
 <br />
 
