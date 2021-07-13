@@ -65,3 +65,7 @@
 
 [twitter]: https://twitter.com/balaajay19
 [linkedin]: https://www.linkedin.com/in/ajay-krishna-065a1a162/
+
+### Specialities
+[![Ajay's github trophy](https://github-profile-trophy.vercel.app/?username=Ajay-056&row=1)](https://github.com/Ajay-056)
+
