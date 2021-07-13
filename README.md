@@ -25,6 +25,7 @@
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
+<img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
 <br />
 <br />
@@ -39,7 +40,9 @@
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
+<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
+
 <br />
 <br />
 
