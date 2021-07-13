@@ -48,7 +48,7 @@
 
 <hr />
 
-### Stats
+### Stats 📈📈
 <pre>
 <a href="#stats">
 <img align="center" alt="Ajay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ajay-056&show_icons=true&theme=chartreuse-dark" />
@@ -69,6 +69,6 @@
 [twitter]: https://twitter.com/balaajay19
 [linkedin]: https://www.linkedin.com/in/ajay-krishna-065a1a162/
 
-### Specialities
+### Specialities 🎁🎁
 [![Ajay's github trophy](https://github-profile-trophy.vercel.app/?username=Ajay-056&row=1)](https://github.com/Ajay-056)
 
