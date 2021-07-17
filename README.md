@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-# I'm Ajay Krishna  <span align='right'><img src='https://visitor-badge.laobi.icu/badge?page_id=Ajay-056'></span>
+# I'm Ajay Krishna
 
 ### Web Developer
 
 - 🔭 I’m learning new things everyday and I love it 💖
 - 📰 My favourite blogs dev.to, daily.dev, Medium, twitter feed
-- 💻 On my way in the roadmap to learn MERN stack 🚀
+- 💻 On my way in the roadmap to learn JAM stack 🚀
+- 💻 Also Learning Docker, Kubernetes, AWS.
 
 ### Contact me through
 
