@@ -59,6 +59,11 @@
 </a>
 </pre>
 
+## My Github Activity 💻⌚
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### My Contribution Streak 🚀🚀
 <pre>
   <a href="https://github.com/Ajay-056/github-readme-streak-stats">
