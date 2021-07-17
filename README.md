@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ajay Krishna
+# I'm Ajay Krishna  <span align='right'><img src='https://visitor-badge.laobi.icu/badge?page_id=Ajay-056'></span>
 
 ### Web Developer
 
