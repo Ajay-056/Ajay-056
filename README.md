@@ -59,16 +59,6 @@
 </a>
 </pre>
 
-## My Github Activity 💻⌚
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-2. ❗️ Reopened issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-3. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-4. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-5. ❗️ Opened issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-<!--END_SECTION:activity-->
-
-
 ### My Contribution Streak 🚀🚀
 <pre>
   <a href="https://github.com/Ajay-056/github-readme-streak-stats">
@@ -81,4 +71,14 @@
 
 ### Specialities 🎁🎁
 [![Ajay's github trophy](https://github-profile-trophy.vercel.app/?username=Ajay-056&row=1)](https://github.com/Ajay-056)
+
+
+### My Github Activity 💻⌚
+<!--START_SECTION:activity-->
+1. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+2. ❗️ Reopened issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+3. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+4. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+5. ❗️ Opened issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+<!--END_SECTION:activity-->
 
