@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ajay Krishna <img src="https://komarev.com/ghpvc/?username=Ajay-056" alt="profile views badge"/>
+# I'm Ajay Krishna
 
 ### Web Developer
 
