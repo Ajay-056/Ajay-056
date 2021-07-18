@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ajay Krishna
+# I'm Ajay Krishna <img src="https://komarev.com/ghpvc/?username=Ajay-056" alt="profile views badge"/>
 
 ### Web Developer
 
@@ -82,4 +82,8 @@
 4. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 5. ❗️ Opened issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 <!--END_SECTION:activity-->
+
+<hr />
+
+<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="quotes"></p>
 
