@@ -76,11 +76,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#555](https://github.com/motdotla/dotenv/issues/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-2. 💪 Opened PR [#555](https://github.com/motdotla/dotenv/pull/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-3. ❗️ Opened issue [#554](https://github.com/motdotla/dotenv/issues/554) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-4. ❗️ Closed issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-5. ❗️ Reopened issue [#2](https://github.com/Ajay-056/Generator/issues/2) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+1. ❌ Closed PR [#555](https://github.com/motdotla/dotenv/pull/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+2. ❗️ Closed issue [#554](https://github.com/motdotla/dotenv/issues/554) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+3. 🗣 Commented on [#555](https://github.com/motdotla/dotenv/issues/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+4. 💪 Opened PR [#555](https://github.com/motdotla/dotenv/pull/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+5. ❗️ Opened issue [#554](https://github.com/motdotla/dotenv/issues/554) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
 <!--END_SECTION:activity-->
 
 <hr />
