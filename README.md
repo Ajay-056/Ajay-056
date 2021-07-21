@@ -76,11 +76,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#555](https://github.com/motdotla/dotenv/pull/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-2. ❗️ Closed issue [#554](https://github.com/motdotla/dotenv/issues/554) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-3. 🗣 Commented on [#555](https://github.com/motdotla/dotenv/issues/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-4. 💪 Opened PR [#555](https://github.com/motdotla/dotenv/pull/555) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
-5. ❗️ Opened issue [#554](https://github.com/motdotla/dotenv/issues/554) in [motdotla/dotenv](https://github.com/motdotla/dotenv)
+1. ❌ Closed PR [#4](https://github.com/Ajay-056/React_Blog_Comment/pull/4) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+2. ❌ Reopened PR [#4](https://github.com/Ajay-056/React_Blog_Comment/pull/4) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+3. ❌ Closed PR [#2](https://github.com/Ajay-056/React_Blog_Comment/pull/2) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+4. ❌ Closed PR [#4](https://github.com/Ajay-056/React_Blog_Comment/pull/4) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+5. 🎉 Merged PR [#3](https://github.com/Ajay-056/React_Blog_Comment/pull/3) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
 <!--END_SECTION:activity-->
 
 <hr />
