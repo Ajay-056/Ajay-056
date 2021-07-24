@@ -76,11 +76,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-2. ❗️ Reopened issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-3. ❌ Closed PR [#1](https://github.com/Ajay-056/first-contributions/pull/1) in [Ajay-056/first-contributions](https://github.com/Ajay-056/first-contributions)
-4. 🎉 Merged PR [#1](https://github.com/Ajay-056/blueedgetechno/pull/1) in [Ajay-056/blueedgetechno](https://github.com/Ajay-056/blueedgetechno)
-5. 🎉 Merged PR [#6](https://github.com/Ajay-056/React_Blog_Comment/pull/6) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+1. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+2. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+3. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+4. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+5. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 <!--END_SECTION:activity-->
 
 <hr />
