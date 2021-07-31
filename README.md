@@ -76,9 +76,9 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-2. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-3. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+1. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+2. ❗️ Opened issue [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+3. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 4. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 5. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 <!--END_SECTION:activity-->
