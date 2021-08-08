@@ -82,3 +82,6 @@
 4. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 5. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 <!--END_SECTION:activity-->
+
+<hr />
+<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="quotes"></p>
