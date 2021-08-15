@@ -76,11 +76,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130314](https://github.com/microsoft/vscode/issues/130314) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-3. ❗️ Opened issue [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-4. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
-5. 🗣 Commented on [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
+1. ❗️ Opened issue [#1](https://github.com/Aktindo/whatsapp-clone/issues/1) in [Aktindo/whatsapp-clone](https://github.com/Aktindo/whatsapp-clone)
+2. 🗣 Commented on [#130314](https://github.com/microsoft/vscode/issues/130314) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+4. ❗️ Opened issue [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+5. ❗️ Closed issue [#3](https://github.com/Ajay-056/Generator/issues/3) in [Ajay-056/Generator](https://github.com/Ajay-056/Generator)
 <!--END_SECTION:activity-->
 
 <hr />
