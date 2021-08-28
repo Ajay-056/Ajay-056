@@ -77,11 +77,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/manismk/html-projects/issues/1) in [manismk/html-projects](https://github.com/manismk/html-projects)
-2. ❗️ Opened issue [#1](https://github.com/QAInsights/PerfDemo/issues/1) in [QAInsights/PerfDemo](https://github.com/QAInsights/PerfDemo)
-3. ❗️ Opened issue [#1](https://github.com/Aktindo/whatsapp-clone/issues/1) in [Aktindo/whatsapp-clone](https://github.com/Aktindo/whatsapp-clone)
-4. 🗣 Commented on [#130314](https://github.com/microsoft/vscode/issues/130314) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
+1. ❗️ Closed issue [#1](https://github.com/QAInsights/Explain-JMeter/issues/1) in [QAInsights/Explain-JMeter](https://github.com/QAInsights/Explain-JMeter)
+2. ❗️ Opened issue [#1](https://github.com/manismk/html-projects/issues/1) in [manismk/html-projects](https://github.com/manismk/html-projects)
+3. ❗️ Opened issue [#1](https://github.com/QAInsights/PerfDemo/issues/1) in [QAInsights/PerfDemo](https://github.com/QAInsights/PerfDemo)
+4. ❗️ Opened issue [#1](https://github.com/Aktindo/whatsapp-clone/issues/1) in [Aktindo/whatsapp-clone](https://github.com/Aktindo/whatsapp-clone)
+5. 🗣 Commented on [#130314](https://github.com/microsoft/vscode/issues/130314) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 
 <hr />
