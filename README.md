@@ -37,6 +37,7 @@
 <img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="VsCode" width="35px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
@@ -84,4 +85,4 @@
 <!--END_SECTION:activity-->
 
 <hr />
-<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="quotes"></p>
+<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="Random Quote Generator"></p>
