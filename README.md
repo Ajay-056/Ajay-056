@@ -77,11 +77,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/QAInsights/Explain-JMeter/issues/1) in [QAInsights/Explain-JMeter](https://github.com/QAInsights/Explain-JMeter)
-2. ❗️ Opened issue [#1](https://github.com/manismk/html-projects/issues/1) in [manismk/html-projects](https://github.com/manismk/html-projects)
-3. ❗️ Opened issue [#1](https://github.com/QAInsights/PerfDemo/issues/1) in [QAInsights/PerfDemo](https://github.com/QAInsights/PerfDemo)
-4. ❗️ Opened issue [#1](https://github.com/Aktindo/whatsapp-clone/issues/1) in [Aktindo/whatsapp-clone](https://github.com/Aktindo/whatsapp-clone)
-5. 🗣 Commented on [#130314](https://github.com/microsoft/vscode/issues/130314) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Opened issue [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+2. ❌ Closed PR [#1](https://github.com/Ajay-056/PerfAction/pull/1) in [Ajay-056/PerfAction](https://github.com/Ajay-056/PerfAction)
+3. ❗️ Closed issue [#1](https://github.com/QAInsights/Explain-JMeter/issues/1) in [QAInsights/Explain-JMeter](https://github.com/QAInsights/Explain-JMeter)
+4. ❗️ Opened issue [#1](https://github.com/manismk/html-projects/issues/1) in [manismk/html-projects](https://github.com/manismk/html-projects)
+5. ❗️ Opened issue [#1](https://github.com/QAInsights/PerfDemo/issues/1) in [QAInsights/PerfDemo](https://github.com/QAInsights/PerfDemo)
 <!--END_SECTION:activity-->
 
 <hr />
