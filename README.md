@@ -77,11 +77,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-2. 🗣 Commented on [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-3. 🗣 Commented on [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-4. 🎉 Merged PR [#1](https://github.com/Ajay-056/PerfAction/pull/1) in [Ajay-056/PerfAction](https://github.com/Ajay-056/PerfAction)
-5. ❗️ Opened issue [#1](https://github.com/QAInsights/Performance-Engineers-Utilities/issues/1) in [QAInsights/Performance-Engineers-Utilities](https://github.com/QAInsights/Performance-Engineers-Utilities)
+1. 🎉 Merged PR [#7](https://github.com/Ajay-056/React_Blog_Comment/pull/7) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+2. 🗣 Commented on [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+3. 🗣 Commented on [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+4. 🗣 Commented on [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+5. 🎉 Merged PR [#1](https://github.com/Ajay-056/PerfAction/pull/1) in [Ajay-056/PerfAction](https://github.com/Ajay-056/PerfAction)
 <!--END_SECTION:activity-->
 
 <hr />
