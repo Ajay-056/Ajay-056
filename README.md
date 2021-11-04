@@ -2,7 +2,7 @@
 
 # I'm Ajay Krishna
 
-### Web Developer
+### Junior Web Developer and Performance Tester
 
 - 🔭 I’m learning new things everyday and I love it 💖
 - 📰 My favourite blogs dev.to, daily.dev, Medium, twitter feed
