@@ -37,6 +37,8 @@
 <img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="mongodb" width="35px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="VsCode" width="35px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
+<img align="left" alt="Docker" width="35px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
+<img align="left" alt="SAP" width="35px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
 <img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
