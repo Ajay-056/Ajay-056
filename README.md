@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/wroberts/rogauracore/issues/55) in [wroberts/rogauracore](https://github.com/wroberts/rogauracore)
-2. 🗣 Commented on [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-3. 💪 Opened PR [#8](https://github.com/QAInsights/PerfAction/pull/8) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-4. 🎉 Merged PR [#1](https://github.com/Ajay-056/PerfAction/pull/1) in [Ajay-056/PerfAction](https://github.com/Ajay-056/PerfAction)
-5. 🎉 Merged PR [#7](https://github.com/Ajay-056/React_Blog_Comment/pull/7) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+1. ❗️ Closed issue [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+2. ❗️ Closed issue [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+3. ❌ Closed PR [#8](https://github.com/QAInsights/PerfAction/pull/8) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
+4. 🗣 Commented on [#55](https://github.com/wroberts/rogauracore/issues/55) in [wroberts/rogauracore](https://github.com/wroberts/rogauracore)
+5. 🗣 Commented on [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
 <!--END_SECTION:activity-->
 
 <hr />
