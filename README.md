@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Ajay-056/React_Blog_Comment/pull/8) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
-2. ❗️ Closed issue [#5](https://github.com/QAInsights/PerfAction/issues/5) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-3. ❗️ Closed issue [#6](https://github.com/QAInsights/PerfAction/issues/6) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-4. ❌ Closed PR [#8](https://github.com/QAInsights/PerfAction/pull/8) in [QAInsights/PerfAction](https://github.com/QAInsights/PerfAction)
-5. 🗣 Commented on [#55](https://github.com/wroberts/rogauracore/issues/55) in [wroberts/rogauracore](https://github.com/wroberts/rogauracore)
+1. 🎉 Merged PR [#1](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/1) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+2. 🎉 Merged PR [#5](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/5) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+3. 🎉 Merged PR [#4](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/4) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+4. 🎉 Merged PR [#3](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/3) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 🎉 Merged PR [#2](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/2) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
 <!--END_SECTION:activity-->
 
 <hr />
