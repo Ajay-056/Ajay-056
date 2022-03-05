@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/13) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-2. 🎉 Merged PR [#21](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/21) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-3. 🎉 Merged PR [#12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/12) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-4. 🎉 Merged PR [#19](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/19) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-5. 🎉 Merged PR [#20](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/20) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+1. 🗣 Commented on [#1013](https://github.com/sundowndev/phoneinfoga/issues/1013) in [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+2. ❗️ Opened issue [#1013](https://github.com/sundowndev/phoneinfoga/issues/1013) in [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+3. 🎉 Merged PR [#13](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/13) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+4. 🎉 Merged PR [#21](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/21) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 🎉 Merged PR [#12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/12) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
 <!--END_SECTION:activity-->
 
 <hr />
