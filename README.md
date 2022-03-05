@@ -58,9 +58,9 @@
 <img align="center" alt="Ajay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ajay-056&show_icons=true&theme=chartreuse-dark" />
 </a>         
 </br>
-<a href="#stats">
+<!-- <a href="#stats">
 <img align="center" alt="Ajay's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=Ajay-056&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+</a> -->
 </pre>
 
 ### My Contribution Streak 🚀🚀
