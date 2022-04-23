@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/23) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-2. 🎉 Merged PR [#22](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/22) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-3. 🎉 Merged PR [#12](https://github.com/Ajay-056/React_Blog_Comment/pull/12) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
-4. 🎉 Merged PR [#14](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/14) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-5. ❗️ Opened issue [#2](https://github.com/QAInsights/Performance-Engineers-Utilities/issues/2) in [QAInsights/Performance-Engineers-Utilities](https://github.com/QAInsights/Performance-Engineers-Utilities)
+1. ❗️ Closed issue [#1013](https://github.com/sundowndev/phoneinfoga/issues/1013) in [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
+2. 🎉 Merged PR [#13](https://github.com/Ajay-056/React_Blog_Comment/pull/13) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+3. 🎉 Merged PR [#23](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/23) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+4. 🎉 Merged PR [#22](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/22) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 🎉 Merged PR [#12](https://github.com/Ajay-056/React_Blog_Comment/pull/12) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
 <!--END_SECTION:activity-->
 
 <hr />
