@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Ajay-056/React_Blog_Comment/pull/14) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
-2. 🎉 Merged PR [#24](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/24) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-3. 🎉 Merged PR [#17](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/17) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-4. ❗️ Closed issue [#1013](https://github.com/sundowndev/phoneinfoga/issues/1013) in [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
-5. 🎉 Merged PR [#13](https://github.com/Ajay-056/React_Blog_Comment/pull/13) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+1. 🎉 Merged PR [#26](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/26) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+2. 🎉 Merged PR [#14](https://github.com/Ajay-056/React_Blog_Comment/pull/14) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+3. 🎉 Merged PR [#24](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/24) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+4. 🎉 Merged PR [#17](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/17) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+5. ❗️ Closed issue [#1013](https://github.com/sundowndev/phoneinfoga/issues/1013) in [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
 <!--END_SECTION:activity-->
 
 <hr />
