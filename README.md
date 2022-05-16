@@ -79,11 +79,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/18) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-2. 🎉 Merged PR [#16](https://github.com/Ajay-056/React_Blog_Comment/pull/16) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
-3. 🎉 Merged PR [#26](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/26) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-4. 🎉 Merged PR [#14](https://github.com/Ajay-056/React_Blog_Comment/pull/14) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
-5. 🎉 Merged PR [#24](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/24) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+1. 💪 Opened PR [#19](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/19) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+2. 🎉 Merged PR [#18](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/18) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+3. 🎉 Merged PR [#16](https://github.com/Ajay-056/React_Blog_Comment/pull/16) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
+4. 🎉 Merged PR [#26](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/26) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 🎉 Merged PR [#14](https://github.com/Ajay-056/React_Blog_Comment/pull/14) in [Ajay-056/React_Blog_Comment](https://github.com/Ajay-056/React_Blog_Comment)
 <!--END_SECTION:activity-->
 
 <hr />
