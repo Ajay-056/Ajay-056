@@ -44,10 +44,10 @@
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
-<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
-<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
-<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
+<img align="left" alt="netlify" width="80px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
+<!--<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" /> -->
+<img align="left" alt="ArchLinux" width="100px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
+<img align="left" alt="NeoVim" width="100px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" />
 
 <br />
 <br />
