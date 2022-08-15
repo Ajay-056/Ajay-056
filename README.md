@@ -46,6 +46,7 @@
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg" />
 <img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" />
 
 <br />
