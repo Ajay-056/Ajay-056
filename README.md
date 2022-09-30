@@ -80,11 +80,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/24) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
-2. 🎉 Merged PR [#37](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/37) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-3. 🗣 Commented on [#38](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/issues/38) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-4. 🎉 Merged PR [#36](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/36) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-5. 💪 Opened PR [#36](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/36) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+1. 💪 Opened PR [#41](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/41) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+2. 💪 Opened PR [#40](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/40) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+3. 💪 Opened PR [#24](https://github.com/Ajay-056/Spotify-Clone-NextJS-12/pull/24) in [Ajay-056/Spotify-Clone-NextJS-12](https://github.com/Ajay-056/Spotify-Clone-NextJS-12)
+4. 🎉 Merged PR [#37](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/37) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 🗣 Commented on [#38](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/issues/38) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
 <!--END_SECTION:activity-->
 
 <hr />
