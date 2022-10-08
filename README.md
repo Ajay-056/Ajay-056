@@ -19,10 +19,10 @@
 
 ### Languages and Libraries
 
-<img align="left" alt="HTML5" width="35px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+<img align="left" alt="HTML5" width="75px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
 <img align="left" alt="CSS3" width="35px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" />
 <img align="left" alt="Sass" width="35px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
-<img align="left" alt="JS" width="35px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+<img align="left" alt="JS" width="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
