@@ -80,11 +80,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/toolleeo/cli-apps/pull/5) in [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps)
-2. 🎉 Merged PR [#39](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/39) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-3. 🎉 Merged PR [#40](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/40) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-4. 💪 Opened PR [#41](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/41) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-5. 💪 Opened PR [#40](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/40) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+1. 🎉 Merged PR [#43](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/43) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+2. 💪 Opened PR [#5](https://github.com/toolleeo/cli-apps/pull/5) in [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps)
+3. 🎉 Merged PR [#39](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/39) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+4. 🎉 Merged PR [#40](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/40) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
+5. 💪 Opened PR [#41](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/41) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
 <!--END_SECTION:activity-->
 
 <hr />
