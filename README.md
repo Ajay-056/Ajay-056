@@ -80,11 +80,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
-2. ❗️ Opened issue [#40](https://github.com/WeiChiaChang/stacks-cli/issues/40) in [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli)
-3. ❗️ Opened issue [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
-4. 🎉 Merged PR [#43](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/43) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-5. 💪 Opened PR [#5](https://github.com/toolleeo/cli-apps/pull/5) in [toolleeo/cli-apps](https://github.com/toolleeo/cli-apps)
+1. 🗣 Commented on [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
+2. ❗️ Opened issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
+3. ❗️ Opened issue [#40](https://github.com/WeiChiaChang/stacks-cli/issues/40) in [WeiChiaChang/stacks-cli](https://github.com/WeiChiaChang/stacks-cli)
+4. ❗️ Opened issue [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
+5. 🎉 Merged PR [#43](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/pull/43) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
 <!--END_SECTION:activity-->
 
 <hr />
