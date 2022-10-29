@@ -80,11 +80,11 @@
 
 ### My Github Activity 💻⌚
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
-2. ❗️ Closed issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
-3. 🗣 Commented on [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
-4. 🗣 Commented on [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
-5. ❗️ Opened issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
+1. ❗️ Closed issue [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
+2. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
+3. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
+4. ❗️ Closed issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
+5. 🗣 Commented on [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
 <hr />
