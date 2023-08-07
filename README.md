@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Ajay Krishna
+# I'm Ajay Krishna ![](https://komarev.com/ghpvc/?username=Ajay-056&color=brightgreen)
 
 ### Junior Web Developer and Performance Tester
 
@@ -87,5 +87,4 @@
 5. ❗️ Closed issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
 
-<hr />
-<p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="Random Quote Generator"></p>
+<!-- <p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="Random Quote Generator"></p> -->
