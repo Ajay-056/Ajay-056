@@ -2,12 +2,10 @@
 
 # I'm Ajay Krishna ![](https://komarev.com/ghpvc/?username=Ajay-056&color=brightgreen)
 
-### Junior Web Developer and Performance Tester
+### Junior Web Developer and Performance Engineer
 
 - 🔭 I’m learning new things everyday and I love it 💖
 - 📰 My favourite blogs dev.to, daily.dev, Medium, twitter feed
-- 💻 On my way in the roadmap to learn JAM stack 🚀
-- 💻 Also Learning Docker, Kubernetes, AWS.
 
 ### Contact me through
 
