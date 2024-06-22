@@ -23,7 +23,6 @@
 <img align="left" alt="JS" width="50px" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
 <img align="left" alt="Java" width="35px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
 <img align="left" alt="Python" width="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="C" width="35px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="npm" width="35px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="NodeJS" width="35px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
@@ -36,7 +35,7 @@
 
 <img align="left" alt="VsCode" width="35px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />
 <img align="left" alt="Docker" width="35px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />
-<img align="left" alt="Docker" width="75px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" alt="Docker" width="75px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" />
 <img align="left" alt="SAP" width="35px" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" />
 <img align="left" alt="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
