@@ -83,5 +83,3 @@
 4. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
 5. ❗️ Closed issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
 <!--END_SECTION:activity-->
-
-<!-- <p align="center"><img src="https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default" alt="Random Quote Generator"></p> -->
