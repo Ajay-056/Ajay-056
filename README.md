@@ -5,7 +5,6 @@
 ### Junior Web Developer and Performance Engineer
 
 - 🔭 I’m learning new things everyday and I love it 💖
-- 📰 My favourite blogs dev.to, daily.dev, Medium, twitter feed
 
 ### Contact me through
 
