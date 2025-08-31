@@ -42,8 +42,8 @@
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />
 <img align="left" alt="netlify" width="80px" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" />
 <!--<img align="left" alt="netlify" width="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" /> -->
-<img align="left" alt="Linux" width="100px" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg" />
-<img align="left" alt="Linux" width="100px" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" />
+<img align="left" alt="Linux" width="80px" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg" />
+<img align="left" alt="Linux" width="90px" src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" />
 <img align="left" alt="NeoVim" width="100px" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-ar21.svg" />
 
 <br />
