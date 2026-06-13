@@ -70,16 +70,3 @@
 
 [twitter]: https://twitter.com/balaajay19
 [linkedin]: https://www.linkedin.com/in/ajay-krishna-065a1a162/
-
-### Specialities 🎁🎁
-[![Ajay's github trophy](https://github-profile-trophy.vercel.app/?username=Ajay-056&row=1)](https://github.com/Ajay-056)
-
-
-### My Github Activity 💻⌚
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/Ajay-056/Whatsapp-Clone-NextJS/issues/38) in [Ajay-056/Whatsapp-Clone-NextJS](https://github.com/Ajay-056/Whatsapp-Clone-NextJS)
-2. ❗️ Closed issue [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
-3. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
-4. 🗣 Commented on [#1623](https://github.com/jrnl-org/jrnl/issues/1623) in [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl)
-5. ❗️ Closed issue [#7914](https://github.com/portainer/portainer/issues/7914) in [portainer/portainer](https://github.com/portainer/portainer)
-<!--END_SECTION:activity-->
